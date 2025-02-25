@@ -41,6 +41,11 @@ This utility is intended for ethical hacking and cybersecurity research. It work
 
 ---
 
+### Preview:
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/9a92bd6a-a3c0-4671-ad9e-ed90040a1428.mp4"></video>
+</div>
+
 ## Requirements
 
 - **Operating System:** Windows (the tool utilizes Windows-specific API calls)
