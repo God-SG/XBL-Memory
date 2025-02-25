@@ -1,0 +1,1 @@
+pyinstaller XBL-Memory.py --onefile --icon=main.ico  --version-file file_version_info.txt
